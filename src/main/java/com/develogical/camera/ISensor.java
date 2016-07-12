@@ -1,6 +1,6 @@
 package com.develogical.camera;
 
-public interface Sensor {
+public interface ISensor {
     byte[] readData();
     void powerUp();
     void powerDown();

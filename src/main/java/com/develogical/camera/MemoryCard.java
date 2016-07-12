@@ -1,5 +1,7 @@
 package com.develogical.camera;
 
-public interface MemoryCard {
-    void write(byte[] data);
+/**
+ * Created by Sabir on 12/07/2016.
+ */
+public class MemoryCard {
 }
